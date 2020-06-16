@@ -12,7 +12,7 @@ Basic, starter, typescript application that randomly generates a company and a u
 
 ## Getting started
 
-- Run `npm install -g parcel-bundler` to install parcel globally
+- Run `npm install -g parcel-bundler` to install Parcel globally if you don't already have it.
 - Run `parcel index.html` to start the project
 - Navigate to localhost:1234 (you should see a blank page)
-- Open the browser console and check for the message 'hi there'.
+- Open the browser console and check for the appearance of a User object and a Company object both with several properties.
