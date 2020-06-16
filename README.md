@@ -6,7 +6,9 @@ Basic, starter, typescript application that randomly generates a company and a u
 
 ## Tech stack
 
-- Parcel
+- Parcel (web application bundler) - defaults to [localhost:1234](http://localhost:1234/)
+- Typescript 3.9.5
+- Faker 4.1.0
 
 ## Getting started
 
