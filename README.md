@@ -17,3 +17,7 @@ Basic, starter, typescript application that randomly generates a company and a u
 - Navigate to localhost:1234
 - You should see a map of the world with two markers on it.
 - Click on each marker to see the pop-up.
+
+## Screenshot
+
+![scrsht1](./public/screenshots/map.png)
